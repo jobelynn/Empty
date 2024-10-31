@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1075240056194",
+    "project_id": "comp3900-stress-tracker",
+    "storage_bucket": "comp3900-stress-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075240056194:android:a7242cd1134fcee467cb9b",
+        "android_client_info": {
+          "package_name": "com.abjjrs.stressapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075240056194-2tf54muo2dlev6204ok6kil3h09hg2ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9B24sofQ_WG0yhMd92mQRqEEGi5DovEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075240056194-2tf54muo2dlev6204ok6kil3h09hg2ad.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075240056194-p0snrjjrcemihe6nbdqkp6ltl3dcqr6o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abbjrs.stressapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
