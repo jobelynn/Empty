@@ -1,0 +1,20 @@
+{
+  "name": "capstone-project-2024-t3-3900f13aabjjrs",
+  "version": "1.0.0",
+  "description": "capstone-project-2024-t3-3900f13aabjjrs created by GitHub Classroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "firebase": "^10.14.1",
+    "googleapis": "^144.0.0"
+  }
+}
